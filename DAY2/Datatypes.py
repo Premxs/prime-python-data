@@ -18,4 +18,8 @@ print(_name, "->", type(_name))
 print(_age, "->", type(_age))
 print(_PI, "->", type(_PI))
 print(is_active, "->", type(is_active))
-print(isPrime, "->", type(isPrime))
+print(isPrime, "->", type(isPrime)) #comments
+'''
+This a multiline comment
+ok
+'''
